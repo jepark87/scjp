@@ -1,0 +1,395 @@
+HGNC ID	Approved Symbol	Approved Name	Status	Previous Symbols	Synonyms	Chromosome	Accession Numbers	RefSeq IDs	Gene Family Tag	Gene family description	Gene family ID
+40	ABCB1	ATP binding cassette subfamily B member 1	Approved	PGY1, MDR1, CLCS	P-gp, CD243, GP170, ABC20	7q21.12	M14758	NM_000927	CD	CD molecules	471
+74	ABCG2	ATP binding cassette subfamily G member 2 (Junior blood group)	Approved		EST157481, MXR, BCRP, ABCP, CD338	4q22.1	AF103796	NM_004827	CD	CD molecules	471
+2707	ACE	angiotensin I converting enzyme	Approved	DCP1	ACE1, CD143	17q23.3	J04144		CD	CD molecules	471
+4035	ACKR1	atypical chemokine receptor 1 (Duffy blood group)	Approved	FY, DARC	CCBP1, GPD, Dfy, CD234	1q23.2	U01839	NM_002036	CD	CD molecules	471
+188	ADAM10	ADAM metallopeptidase domain 10	Approved		kuz, MADM, HsT18717, CD156c	15q21.3	AF009615	NM_001110	CD	CD molecules	471
+195	ADAM17	ADAM metallopeptidase domain 17	Approved	TACE	cSVP, CD156B	2p25.1	U69611		CD	CD molecules	471
+215	ADAM8	ADAM metallopeptidase domain 8	Approved		CD156, MS2, CD156a	10q26.3	D26579	NM_001109	CD	CD molecules	471
+3337	ADGRE2	adhesion G protein-coupled receptor E2	Approved	EMR2	CD312	19p13.12	AF114491		CD	CD molecules	471
+1711	ADGRE5	adhesion G protein-coupled receptor E5	Approved	CD97	TM7LN1	19p13.12		NM_078481	CD	CD molecules	471
+400	ALCAM	activated leukocyte cell adhesion molecule	Approved		CD166, MEMD	3q13.11	AK054632	NM_001627	CD	CD molecules	471
+427	ALK	ALK receptor tyrosine kinase	Approved		CD246	2p23.2-p23.1	D45915	NM_004304	CD	CD molecules	471
+500	ANPEP	alanyl aminopeptidase, membrane	Approved	CD13, PEPN	LAP1, gp150, p150	15q26.1	M22324		CD	CD molecules	471
+723	ART1	ADP-ribosyltransferase 1	Approved		ART2, CD296	11p15.4	S74683	NM_004314	CD	CD molecules	471
+726	ART4	ADP-ribosyltransferase 4 (Dombrock blood group)	Approved	DO	DOK1, CD297	12p12.3	X95826	NM_021071	CD	CD molecules	471
+806	ATP1B3	ATPase Na+/K+ transporting subunit beta 3	Approved		FLJ29027, CD298	3q23	BC011835	NM_001679	CD	CD molecules	471
+921	B3GAT1	beta-1,3-glucuronyltransferase 1	Approved	CD57, LEU7	GlcAT-P, HNK-1, NK-1	11q25	AB029396	NM_018644	CD	CD molecules	471
+6722	BCAM	basal cell adhesion molecule (Lutheran blood group)	Approved	LU	CD239	19q13.32	X83425	NM_005581	CD	CD molecules	471
+1076	BMPR1A	bone morphogenetic protein receptor type 1A	Approved	ACVRLK3	ALK3, CD292	10q23.2	BC028383	NM_004329	CD	CD molecules	471
+1077	BMPR1B	bone morphogenetic protein receptor type 1B	Approved		ALK6, CDw293	4q22.3	D89675	NM_001203	CD	CD molecules	471
+1116	BSG	basigin (Ok blood group)	Approved	OK	EMMPRIN, CD147	19p13.3	L10240	NM_001728	CD	CD molecules	471
+1118	BST1	bone marrow stromal cell antigen 1	Approved		CD157	4p15.32	D21878	NM_004334	CD	CD molecules	471
+1119	BST2	bone marrow stromal cell antigen 2	Approved		CD317, tetherin	19p13.11		NM_004335	CD	CD molecules	471
+21087	BTLA	B and T lymphocyte associated	Approved		BTLA1, CD272	3q13.2	AY293286	NM_181780	CD	CD molecules	471
+1138	BTN3A1	butyrophilin subfamily 3 member A1	Approved		BT3.1, BTF5, CD277, BTN3.1	6p22.2	U90552		CD	CD molecules	471
+1338	C5AR1	complement C5a receptor 1	Approved	C5R1	C5A, C5AR, CD88	19q13.32		NM_001736	CD	CD molecules	471
+1602	CCR1	C-C motif chemokine receptor 1	Approved	SCYAR1, CMKBR1	CKR-1, MIP1aR, CD191	3p21.31		NM_001295	CD	CD molecules	471
+1603	CCR2	C-C motif chemokine receptor 2	Approved	CMKBR2	CC-CKR-2, CKR2, MCP-1-R, CD192, FLJ78302	3p21.31		NM_000647	CD	CD molecules	471
+1604	CCR3	C-C motif chemokine receptor 3	Approved	CMKBR3	CC-CKR-3, CKR3, CD193	3p21.31	AF247361		CD	CD molecules	471
+1605	CCR4	C-C motif chemokine receptor 4	Approved		CC-CKR-4, CMKBR4, CKR4, k5-5, ChemR13, CD194	3p22.3	X85740		CD	CD molecules	471
+1606	CCR5	C-C motif chemokine receptor 5 (gene/pseudogene)	Approved	CMKBR5	CKR-5, CC-CKR-5, CKR5, CD195, IDDM22	3p21.31		NM_000579	CD	CD molecules	471
+1607	CCR6	C-C motif chemokine receptor 6	Approved	STRL22	CKR-L3, GPR-CY4, CMKBR6, GPR29, DRY-6, DCR2, BN-1, CD196	6q27	U68030		CD	CD molecules	471
+1608	CCR7	C-C motif chemokine receptor 7	Approved	CMKBR7, EBI1	BLR2, CDw197, CD197	17q21.2			CD	CD molecules	471
+1609	CCR8	C-C motif chemokine receptor 8	Approved	CMKBRL2, CMKBR8	CY6, TER1, CKR-L1, GPR-CY6, CDw198	3p22.1	D49919	NM_005201	CD	CD molecules	471
+1610	CCR9	C-C motif chemokine receptor 9	Approved	GPR28	GPR-9-6, CDw199	3p21.31	AJ132337		CD	CD molecules	471
+5949	CD101	CD101 molecule	Approved	IGSF2	V7	1p13.1	Z33642	NM_004258	CD	CD molecules	471
+21685	CD109	CD109 molecule	Approved		FLJ38569, DKFZp762L1111, CPAMD7	6q13	AF410459	NM_133493	CD	CD molecules	471
+1628	CD14	CD14 molecule	Approved			5q31.3		NM_000591	CD	CD molecules	471
+1630	CD151	CD151 molecule (Raph blood group)	Approved		SFA-1, PETA-3, TSPAN24, RAPH	11p15.5	AL161965, BC013302, D29963	NM_004357	CD	CD molecules	471
+17013	CD160	CD160 molecule	Approved		BY55, NK1, NK28	1q21.1	AF060981	NM_007053	CD	CD molecules	471
+1631	CD163	CD163 molecule	Approved		M130, MM130, SCARI1	12p13.31	Z22968	NM_004244, NM_203416	CD	CD molecules	471
+1632	CD164	CD164 molecule	Approved		MUC-24, MGC-24, DFNA66	6q21	AF106518	NM_006016	CD	CD molecules	471
+30072	CD177	CD177 molecule	Approved		PRV1, HNA2A, NB1	19q13.31	AF146747	NM_020406	CD	CD molecules	471
+6726	CD180	CD180 molecule	Approved	LY64	RP105, Ly78	5q12.3	D83597	NM_005582	CD	CD molecules	471
+1633	CD19	CD19 molecule	Approved			16p11.2			CD	CD molecules	471
+1634	CD1A	CD1a molecule	Approved	CD1		1q23.1	M28825	NM_001763	CD	CD molecules	471
+1635	CD1B	CD1b molecule	Approved	CD1		1q23.1	M28826	NM_001764	CD	CD molecules	471
+1636	CD1C	CD1c molecule	Approved	CD1		1q23.1	M28827	NM_001765	CD	CD molecules	471
+1637	CD1D	CD1d molecule	Approved			1q23.1	BC027926	NM_001766	CD	CD molecules	471
+1638	CD1E	CD1e molecule	Approved			1q23.1	AJ289111	NM_030893	CD	CD molecules	471
+1639	CD2	CD2 molecule	Approved	SRBC		1p13.1	BC033583	NM_001767	CD	CD molecules	471
+7203	CD200	CD200 molecule	Approved	MOX1, MOX2	MRC, OX-2	3q13.2			CD	CD molecules	471
+17935	CD207	CD207 molecule	Approved		Langerin, CLEC4K	2p13.3	AJ242859	NM_015717	CD	CD molecules	471
+1641	CD209	CD209 molecule	Approved		DC-SIGN, CDSIGN, DC-SIGN1, CLEC4L	19p13.2	M98457	NM_021155	CD	CD molecules	471
+1643	CD22	CD22 molecule	Approved		SIGLEC-2, SIGLEC2	19q13.12	X52785	NM_001771	CD	CD molecules	471
+16961	CD226	CD226 molecule	Approved		DNAM-1, DNAM1, PTA1, TLiSA1	18q22.2	U56102	NM_006566	CD	CD molecules	471
+1645	CD24	CD24 molecule	Approved		CD24A	6q21		NM_013230	CD	CD molecules	471
+18171	CD244	CD244 molecule	Approved		2B4, NAIL, NKR2B4, Nmrk, SLAMF4	1q23.3	AF105261	NM_016382	CD	CD molecules	471
+1677	CD247	CD247 molecule	Approved	CD3Z	CD3H, CD3Q	1q24.2	BC025703	NM_198053	CD	CD molecules	471
+18219	CD248	CD248 molecule	Approved	CD164L1	TEM1	11q13.2	AF279142	NM_020404	CD	CD molecules	471
+11922	CD27	CD27 molecule	Approved	TNFRSF7	S152, Tp55	12p13.31	M63928		CD	CD molecules	471
+17635	CD274	CD274 molecule	Approved	PDCD1LG1	B7-H, B7H1, PD-L1, PDL1, B7-H1	9p24.1	AF177937	NM_014143	CD	CD molecules	471
+19137	CD276	CD276 molecule	Approved		B7-H3, B7H3, B7RP-2	15q24.1	AF302102	NM_025240	CD	CD molecules	471
+1653	CD28	CD28 molecule	Approved			2q33.2	J02988	NM_006139	CD	CD molecules	471
+19319	CD300A	CD300a molecule	Approved		Irp60, CMRF35H, CMRF-35-H9, IRC1, IRC2, IGSF12	17q25.1	BC032352	NM_007261	CD	CD molecules	471
+19320	CD300C	CD300c molecule	Approved		CMRF35, LIR, CMRF-35A, CMRF35A, IGSF16	17q25.1	BC022279	NM_006678	CD	CD molecules	471
+28874	CD300E	CD300e molecule	Approved	CD300LE	IREM2, CLM2	17q25.1	BX648376	NM_181449	CD	CD molecules	471
+30843	CD302	CD302 molecule	Approved		DCL-1, KIAA0022, BIMLEC, CLEC13A	2q24.2	AY314007	NM_014880	CD	CD molecules	471
+16692	CD320	CD320 molecule	Approved		8D6, 8D6A	19p13.2	AF161254	NM_016579	CD	CD molecules	471
+1659	CD33	CD33 molecule	Approved		SIGLEC3, SIGLEC-3, p67, FLJ00391	19q13.41	M23197	NM_001772	CD	CD molecules	471
+1662	CD34	CD34 molecule	Approved			1q32.2	M81104	NM_001773	CD	CD molecules	471
+1663	CD36	CD36 molecule	Approved		SCARB3, GPIV, FAT, GP4, GP3B	7q21.11	Z32770	NM_001001547	CD	CD molecules	471
+1666	CD37	CD37 molecule	Approved		TSPAN26	19q13.33			CD	CD molecules	471
+1667	CD38	CD38 molecule	Approved			4p15.32	D84276	NM_001775	CD	CD molecules	471
+1673	CD3D	CD3d molecule	Approved	T3D		11q23.3	X01451	NM_000732	CD	CD molecules	471
+1674	CD3E	CD3e molecule	Approved			11q23.3	X03884	NM_000733	CD	CD molecules	471
+1675	CD3G	CD3g molecule	Approved			11q23.3	X60491	NM_000073	CD	CD molecules	471
+1678	CD4	CD4 molecule	Approved			12p13.31	M35160	NM_000616	CD	CD molecules	471
+11919	CD40	CD40 molecule	Approved	TNFRSF5	p50, Bp50	20q13.12	X60592	NM_001250	CD	CD molecules	471
+11935	CD40LG	CD40 ligand	Approved	HIGM1, IMD3, TNFSF5	CD40L, TRAP, gp39, hCD40L, CD154	Xq26.3	X67878	NM_000074	CD	CD molecules	471
+1681	CD44	CD44 molecule (Indian blood group)	Approved	MIC4, MDU2, MDU3	IN, MC56, Pgp1, CD44R, HCELL, CSPG8	11p13	M59040	NM_000610	CD	CD molecules	471
+6953	CD46	CD46 molecule	Approved	MIC10, MCP	TRA2.10, MGC26544, TLX	1q32.2	BC030594	NM_172361	CD	CD molecules	471
+1682	CD47	CD47 molecule	Approved	MER6	IAP, OA3	3q13.12		NM_001777	CD	CD molecules	471
+1683	CD48	CD48 molecule	Approved	BCM1	BLAST, mCD48, hCD48, SLAMF2	1q23.3	BC016182	NM_001778	CD	CD molecules	471
+1685	CD5	CD5 molecule	Approved	LEU1	T1	11q12.2	X04391	NM_014207	CD	CD molecules	471
+1804	CD52	CD52 molecule	Approved	CDW52	HE5, EDDM5	1p36.11		NM_001803	CD	CD molecules	471
+1686	CD53	CD53 molecule	Approved	MOX44	TSPAN25	1p13.3	BC040693	NM_000560	CD	CD molecules	471
+2665	CD55	CD55 molecule (Cromer blood group)	Approved	DAF	CR, TC, CROM	1q32.2	BC001288	NM_000574	CD	CD molecules	471
+1688	CD58	CD58 molecule	Approved	LFA3		1p13.1	BC005930	NM_001779	CD	CD molecules	471
+1689	CD59	CD59 molecule (CD59 blood group)	Approved	MIC11, MIN1, MSK21, MIN2, MIN3	16.3A5, EJ16, EJ30, EL32, G344, p18-20	11p13		NM_203329	CD	CD molecules	471
+1691	CD6	CD6 molecule	Approved		Tp120	11q12.2		NM_006725	CD	CD molecules	471
+1692	CD63	CD63 molecule	Approved	MLA1	ME491, TSPAN30	12q13.2	M58485		CD	CD molecules	471
+1693	CD68	CD68 molecule	Approved		SCARD1, macrosialin, GP110, DKFZp686M18236, LAMP4	17p13.1	S57235	NM_001251	CD	CD molecules	471
+1694	CD69	CD69 molecule	Approved		CLEC2C	12p13.31	Z22576		CD	CD molecules	471
+1695	CD7	CD7 molecule	Approved		GP40, LEU-9, TP41, Tp40	17q25.3	X06180	NM_006137	CD	CD molecules	471
+11937	CD70	CD70 molecule	Approved	CD27LG, TNFSF7	CD27L	19p13.3	L08096		CD	CD molecules	471
+1696	CD72	CD72 molecule	Approved		LYB2, CD72b	9p13.3		NM_001782	CD	CD molecules	471
+1697	CD74	CD74 molecule	Approved	DHLAG		5q33.1		NM_004355	CD	CD molecules	471
+1698	CD79A	CD79a molecule	Approved	IGA	MB-1	19q13.2	M80462		CD	CD molecules	471
+1699	CD79B	CD79b molecule	Approved	IGB	B29	17q23.3	L27587		CD	CD molecules	471
+1700	CD80	CD80 molecule	Approved	CD28LG, CD28LG1	B7.1, B7-1	3q13.33		NM_005191	CD	CD molecules	471
+1701	CD81	CD81 molecule	Approved	TAPA1	TAPA-1, TSPAN28	11p15.5		NM_004356	CD	CD molecules	471
+6210	CD82	CD82 molecule	Approved	ST6, KAI1	R2, IA4, TSPAN27	11p11.2	U20770	NM_002231	CD	CD molecules	471
+1703	CD83	CD83 molecule	Approved		HB15, BL11	6p23	Z11697		CD	CD molecules	471
+1704	CD84	CD84 molecule	Approved		SLAMF5, hCD84, mCD84	1q23.3	AF054816	NM_003874	CD	CD molecules	471
+1705	CD86	CD86 molecule	Approved	CD28LG2	B7.2, B7-2	3q13.33		NM_006889	CD	CD molecules	471
+1706	CD8A	CD8a molecule	Approved	CD8		2p11.2		NM_001768	CD	CD molecules	471
+1707	CD8B	CD8b molecule	Approved	CD8B1		2p11.2		NM_172099	CD	CD molecules	471
+1709	CD9	CD9 molecule	Approved	MIC3	BA2, P24, TSPAN29, MRP-1	12p13.31	M38690		CD	CD molecules	471
+15855	CD93	CD93 molecule	Approved	MXRA4, C1QR1	C1qRP, C1qR(P), dJ737E23.1, CDw93, ECSM3	20p11.21	U94333	NM_012072	CD	CD molecules	471
+16892	CD96	CD96 molecule	Approved		TACTILE	3q13.13-q13.2	M88282		CD	CD molecules	471
+7082	CD99	CD99 molecule (Xg blood group)	Approved	MIC2		Xp22.32 and Yp11.3	M16279	NM_001122898	CD	CD molecules	471
+24357	CDCP1	CUB domain containing protein 1	Approved		CD318, SIMA135	3p21.31	AF468010	NM_022842	CD	CD molecules	471
+1748	CDH1	cadherin 1	Approved	UVO	uvomorulin, CD324	16q22.1	L08599	NM_004360	CD	CD molecules	471
+1759	CDH2	cadherin 2	Approved	NCAD	CDHN, CD325	18q12.1	S42303	NM_001792	CD	CD molecules	471
+1764	CDH5	cadherin 5	Approved		7B4, CD144	16q21	X79981	NM_001795	CD	CD molecules	471
+1814	CEACAM1	carcinoembryonic antigen related cell adhesion molecule 1	Approved	BGP	BGP1, CD66a	19q13.2	M72238	NM_001712	CD	CD molecules	471
+1815	CEACAM3	carcinoembryonic antigen related cell adhesion molecule 3	Approved	CGM1	CD66d	19q13.2	E03349	NM_001815	CD	CD molecules	471
+1817	CEACAM5	carcinoembryonic antigen related cell adhesion molecule 5	Approved	CEA	CD66e	19q13.2	M17303	NM_004363	CD	CD molecules	471
+1818	CEACAM6	carcinoembryonic antigen related cell adhesion molecule 6	Approved	NCA	CD66c	19q13.2	M29541		CD	CD molecules	471
+1820	CEACAM8	carcinoembryonic antigen related cell adhesion molecule 8	Approved	CGM6	CD66b	19q13.2	D90064		CD	CD molecules	471
+16916	CLEC10A	C-type lectin domain containing 10A	Approved	CLECSF13, CLECSF14	HML2, HML, CD301	17p13.1	D50532	NM_006344	CD	CD molecules	471
+13257	CLEC4A	C-type lectin domain family 4 member A	Approved	CLECSF6	DCIR, DDB27, CD367	12p13.31	AJ133532	NM_194450	CD	CD molecules	471
+13258	CLEC4C	C-type lectin domain family 4 member C	Approved	CLECSF11, CLECSF7	HECL, DLEC, BDCA2, CD303	12p13.31	AF325460	NM_203503	CD	CD molecules	471
+14554	CLEC4D	C-type lectin domain family 4 member D	Approved	CLECSF8	Mpcl, CD368, MCL, Dectin-3	12p13.31	AF411850	NM_080387	CD	CD molecules	471
+13523	CLEC4M	C-type lectin domain family 4 member M	Approved	CD209L, CD299	HP10347, DC-SIGNR, LSIGN, DCSIGNR, DC-SIGN2	19p13.2	AB015629	NM_014257	CD	CD molecules	471
+14558	CLEC7A	C-type lectin domain containing 7A	Approved	CLECSF12	dectin-1, hDectin-1, CD369, SCARE2	12p13.2	AY009090	NM_197954	CD	CD molecules	471
+26705	CLEC9A	C-type lectin domain containing 9A	Approved		UNQ9341, HEEE9341, CD370, DNGR-1	12p13.2		NM_207345	CD	CD molecules	471
+2334	CR1	complement C3b/C4b receptor 1 (Knops blood group)	Approved		CD35, KN	1q32.2	Y00816	NM_000573	CD	CD molecules	471
+2336	CR2	complement C3d receptor 2	Approved		CD21, C3DR	1q32.2	M26004	NM_001877	CD	CD molecules	471
+24313	CRTAM	cytotoxic and regulatory T cell molecule	Approved		CD355	11q24.1	AF001622	NM_019604	CD	CD molecules	471
+2433	CSF1R	colony stimulating factor 1 receptor	Approved	FMS	C-FMS, CSFR, CD115	5q32	U63963	NM_005211	CD	CD molecules	471
+2435	CSF2RA	colony stimulating factor 2 receptor alpha subunit	Approved	CSF2R	CD116, alphaGMR	Xp22.32 and Yp11.3	M64445		CD	CD molecules	471
+2436	CSF2RB	colony stimulating factor 2 receptor beta common subunit	Approved	IL3RB	IL5RB, CD131, betaGMR	22q12.3	M59941	NM_000395	CD	CD molecules	471
+2439	CSF3R	colony stimulating factor 3 receptor	Approved	CD114	GCSFR	1p34.3	M59820	NM_156039	CD	CD molecules	471
+2505	CTLA4	cytotoxic T-lymphocyte associated protein 4	Approved	CELIAC3, IDDM12	CD152, CD, GSE	2q33.2		NM_005214	CD	CD molecules	471
+6026	CXCR1	C-X-C motif chemokine receptor 1	Approved	CMKAR1, IL8RA	CKR-1, CDw128a, CD181	2q35	U11870	NM_000634	CD	CD molecules	471
+6027	CXCR2	C-X-C motif chemokine receptor 2	Approved	IL8RB	CMKAR2, CD182	2q35	U11869	NM_001557	CD	CD molecules	471
+4540	CXCR3	C-X-C motif chemokine receptor 3	Approved	GPR9	CKR-L2, CMKAR3, IP10-R, MigR, CD183	Xq13.1	U32674		CD	CD molecules	471
+2561	CXCR4	C-X-C motif chemokine receptor 4	Approved		LESTR, NPY3R, HM89, NPYY3R, D2S201E, fusin, HSY3RR, NPYR, CD184	2q22.1	AF005058		CD	CD molecules	471
+1060	CXCR5	C-X-C motif chemokine receptor 5	Approved	BLR1	MDR15, CD185	11q23.3	X68829	NM_001716	CD	CD molecules	471
+16647	CXCR6	C-X-C motif chemokine receptor 6	Approved		TYMSTR, STRL33, BONZO, CD186	3p21.31	AF007545		CD	CD molecules	471
+2730	DDR1	discoidin domain receptor tyrosine kinase 1	Approved	NTRK4, PTK3A, NEP, CAK, EDDR1	RTK6, CD167	6p21.33	X99031	NM_013994	CD	CD molecules	471
+3009	DPP4	dipeptidyl peptidase 4	Approved	CD26, ADCP2	DPPIV	2q24.2	M74777		CD	CD molecules	471
+3349	ENG	endoglin	Approved	ORW1, ORW	END, HHT1, CD105	9q34.11	AF035753		CD	CD molecules	471
+3355	ENPEP	glutamyl aminopeptidase	Approved		gp160, CD249	4q25	L12468		CD	CD molecules	471
+3358	ENPP3	ectonucleotide pyrophosphatase/phosphodiesterase 3	Approved	PDNP3	PD-IBETA, gp130RB13-6, B10, CD203c	6q23.2	AF005632		CD	CD molecules	471
+3363	ENTPD1	ectonucleoside triphosphate diphosphohydrolase 1	Approved	CD39	NTPDase-1, ATPDase, SPG64	10q24.1	S73813	NM_001776	CD	CD molecules	471
+11529	EPCAM	epithelial cell adhesion molecule	Approved	M4S1, MIC18, TACSTD1	Ly74, TROP1, GA733-2, EGP34, EGP40, EGP-2, KSA, CD326, Ep-CAM, HEA125, KS1/4, MK-1, MH99, MOC31, 323/A3, 17-1A, TACST-1, CO-17A, ESA	2p21	M33011		CD	CD molecules	471
+3430	ERBB2	erb-b2 receptor tyrosine kinase 2	Approved	NGL	NEU, HER-2, CD340, HER2	17q12	X03363	NM_004448	CD	CD molecules	471
+3500	EVI2B	ecotropic viral integration site 2B	Approved		D17S376, EVDB, CD361	17q11.2		NM_006495	CD	CD molecules	471
+14685	F11R	F11 receptor	Approved	JAM1	PAM-1, JCAM, JAM-1, JAM-A, JAMA, CD321	1q23.3	AF111713	NM_016946	CD	CD molecules	471
+3541	F3	coagulation factor III, tissue factor	Approved		CD142, TF	1p21.3	BC011029	NM_001993	CD	CD molecules	471
+11920	FAS	Fas cell surface death receptor	Approved	FAS1, APT1, TNFRSF6	CD95, APO-1	10q23.31	M67454		CD	CD molecules	471
+11936	FASLG	Fas ligand	Approved	APT1LG1, TNFSF6	FasL, CD178	1q24.3	U11821		CD	CD molecules	471
+24692	FCAMR	Fc fragment of IgA and IgM receptor	Approved		FKSG87, FCA/MR, CD351	1q32.1	AF354295	NM_032029	CD	CD molecules	471
+3608	FCAR	Fc fragment of IgA receptor	Approved		CD89	19q13.42	X54150	NM_002000	CD	CD molecules	471
+3612	FCER2	Fc fragment of IgE receptor II	Approved	CD23A, FCE2	CLEC4J, CD23	19p13.2	M15059	NM_002002	CD	CD molecules	471
+3613	FCGR1A	Fc fragment of IgG receptor Ia	Approved		CD64, CD64A	1q21.2	BC032634	NM_000566	CD	CD molecules	471
+3616	FCGR2A	Fc fragment of IgG receptor IIa	Approved	FCG2, FCGR2A1, FCGR2	CD32, CD32A, IGFR2, CDw32	1q23.3	J03619	NM_021642	CD	CD molecules	471
+3618	FCGR2B	Fc fragment of IgG receptor IIb	Approved	FCG2, FCGR2	CD32, CD32B	1q23.3	BC031992	NM_004001	CD	CD molecules	471
+15626	FCGR2C	Fc fragment of IgG receptor IIc (gene/pseudogene)	Approved		hFcRII-C, CD32C	1q23.3	X17653	NM_201563	CD	CD molecules	471
+3619	FCGR3A	Fc fragment of IgG receptor IIIa	Approved	FCGR3, FCG3	CD16, CD16a	1q23.3	BC036723	NM_000569	CD	CD molecules	471
+3620	FCGR3B	Fc fragment of IgG receptor IIIb	Approved	FCGR3, FCG3	CD16, CD16b	1q23.3	J04162	NM_000570	CD	CD molecules	471
+18509	FCRL1	Fc receptor like 1	Approved		FCRH1, IRTA5, IFGP1, CD307a	1q23.1	BC033690	NM_052938	CD	CD molecules	471
+14875	FCRL2	Fc receptor like 2	Approved	SPAP1	FCRH2, IRTA4, CD307b	1q23.1	AF319438	NM_030764	CD	CD molecules	471
+18506	FCRL3	Fc receptor like 3	Approved		FCRH3, IRTA3, IFGP3, SPAP2a, SPAP2, SPAP2b, SPAP2c, SPAP2d, SPAP2e, CD307c	1q23.1	AF459027	NM_052939	CD	CD molecules	471
+18507	FCRL4	Fc receptor like 4	Approved		FCRH4, IRTA1, IGFP2, CD307d	1q23.1	AF343661	NM_031282	CD	CD molecules	471
+18508	FCRL5	Fc receptor like 5	Approved		FCRH5, IRTA2, BXMAS1, CD307e	1q23.1	AF369794	NM_031281	CD	CD molecules	471
+3688	FGFR1	fibroblast growth factor receptor 1	Approved	FLT2, KAL2	H2, H3, H4, H5, CEK, FLG, BFGFR, N-SAM, CD331	8p11.23	M34185		CD	CD molecules	471
+3689	FGFR2	fibroblast growth factor receptor 2	Approved	KGFR, BEK, CFD1, JWS	CEK3, TK14, TK25, ECT1, K-SAM, CD332	10q26.13	AK026508	NM_022976, NM_000141	CD	CD molecules	471
+3690	FGFR3	fibroblast growth factor receptor 3	Approved	ACH	CEK2, JTK4, CD333	4p16.3	M64347	NM_000142	CD	CD molecules	471
+3691	FGFR4	fibroblast growth factor receptor 4	Approved		JTK2, CD334	5q35.2	AF202063		CD	CD molecules	471
+3765	FLT3	fms related tyrosine kinase 3	Approved		STK1, FLK2, CD135	13q12.2	U02687		CD	CD molecules	471
+4014	FUT3	fucosyltransferase 3 (Lewis blood group)	Approved	LE	CD174	19p13.3		NM_000149	CD	CD molecules	471
+4015	FUT4	fucosyltransferase 4	Approved	CD15, FCT3A, ELFT	FUC-TIV	11q21		NM_002033	CD	CD molecules	471
+4039	FZD10	frizzled class receptor 10	Approved		CD350	12q24.33	AB027464		CD	CD molecules	471
+4042	FZD4	frizzled class receptor 4	Approved	EVR1	CD344	11q14.2	AB032417	NM_012193	CD	CD molecules	471
+4047	FZD9	frizzled class receptor 9	Approved		FZD3, CD349	7q11.23	U82169		CD	CD molecules	471
+4250	GGT1	gamma-glutamyltransferase 1	Approved	GGT	D22S672, D22S732, CD224	22q11.23	M24903	NM_013430	CD	CD molecules	471
+4439	GP1BA	glycoprotein Ib platelet alpha subunit	Approved	GP1B	CD42b, GPIbalpha	17p13.2			CD	CD molecules	471
+4440	GP1BB	glycoprotein Ib platelet beta subunit	Approved		CD42c, GPIbbeta	22q11.21			CD	CD molecules	471
+4443	GP5	glycoprotein V platelet	Approved		CD42d	3q29	L11238	NM_004488	CD	CD molecules	471
+4444	GP9	glycoprotein IX platelet	Approved		CD42a, GPIX	3q21.3			CD	CD molecules	471
+4702	GYPA	glycophorin A (MNS blood group)	Approved	MNS	GPA, MN, CD235a	4q31.21	M36281	NM_002099	CD	CD molecules	471
+4703	GYPB	glycophorin B (MNS blood group)	Approved	MNS	GPB, SS, CD235b	4q31.21		NM_002100	CD	CD molecules	471
+4704	GYPC	glycophorin C (Gerbich blood group)	Approved		GPC, GYPD, Ge, CD236, CD236R	2q14.3		NM_002101	CD	CD molecules	471
+17866	HAVCR1	hepatitis A virus cellular receptor 1	Approved		HAVCR-1, TIM-1, TIM1, HAVCR, TIMD1, CD365, KIM1	5q33.3	AF043724		CD	CD molecules	471
+5012	HMMR	hyaluronan mediated motility receptor	Approved		RHAMM, CD168	5q34	U29343	NM_012484	CD	CD molecules	471
+5344	ICAM1	intercellular adhesion molecule 1	Approved		BB2, CD54	19p13.2			CD	CD molecules	471
+5345	ICAM2	intercellular adhesion molecule 2	Approved		CD102	17q23.3			CD	CD molecules	471
+5346	ICAM3	intercellular adhesion molecule 3	Approved		CDW50, ICAM-R, CD50	19p13.2			CD	CD molecules	471
+5347	ICAM4	intercellular adhesion molecule 4 (Landsteiner-Wiener blood group)	Approved	LW	CD242	19p13.2	X93093	NM_001544	CD	CD molecules	471
+5351	ICOS	inducible T cell costimulator	Approved		AILIM, CD278	2q33.2	AB023135	NM_012092	CD	CD molecules	471
+17087	ICOSLG	inducible T cell costimulator ligand	Approved	ICOSL	KIAA0653, GL50, B7-H2, B7RP-1, B7H2, B7RP1, ICOS-L, CD275	21q22.3	AB014553	NM_015259	CD	CD molecules	471
+5412	IFITM1	interferon induced transmembrane protein 1	Approved	IFI17	9-27, CD225	11p15.5	J04164	NM_003641	CD	CD molecules	471
+5439	IFNGR1	interferon gamma receptor 1	Approved	IFNGR	CD119	6q23.3			CD	CD molecules	471
+5465	IGF1R	insulin like growth factor 1 receptor	Approved		JTK13, CD221, IGFIR, MGC18216, IGFR	15q26.3	M69229	NM_000875	CD	CD molecules	471
+5467	IGF2R	insulin like growth factor 2 receptor	Approved		CD222, MPRI, MPR1, CIMPR, M6P-R, CI-M6PR, CI-MPR, MPR300	6q25.3	J03528	NM_000876	CD	CD molecules	471
+5870	IGLL1	immunoglobulin lambda like polypeptide 1	Approved	IGLL	IGVPB, IGL5, 14.1, CD179B	22q11.23	X52204	NM_020070	CD	CD molecules	471
+17813	IGSF8	immunoglobulin superfamily member 8	Approved		CD81P3, EWI2, PGRL, CD316	1q23.2	AF407274	NM_052868	CD	CD molecules	471
+5964	IL10RA	interleukin 10 receptor subunit alpha	Approved	IL10R	HIL-10R, CDW210A, CD210a, CD210	11q23.3	U00672		CD	CD molecules	471
+5965	IL10RB	interleukin 10 receptor subunit beta	Approved	CRFB4, D21S58, D21S66	CRF2-4, CDW210B, IL-10R2	21q22.11	U08988		CD	CD molecules	471
+5971	IL12RB1	interleukin 12 receptor subunit beta 1	Approved	IL12RB	CD212	19p13.11	U03187		CD	CD molecules	471
+5974	IL13RA1	interleukin 13 receptor subunit alpha 1	Approved		IL-13Ra, NR4, CD213a1	Xq24	U62858	NM_001560	CD	CD molecules	471
+5975	IL13RA2	interleukin 13 receptor subunit alpha 2	Approved		IL-13R, IL13BP, CD213a2, CT19	Xq23	X95302	NM_000640	CD	CD molecules	471
+5978	IL15RA	interleukin 15 receptor subunit alpha	Approved		CD215, IL-15RA	10p15.1	U31628	NM_172200, NM_002189	CD	CD molecules	471
+5985	IL17RA	interleukin 17 receptor A	Approved	IL17R	hIL-17R, IL-17RA, CDw217, CD217	22q11.1	U58917	NM_014339	CD	CD molecules	471
+5988	IL18R1	interleukin 18 receptor 1	Approved		IL1RRP, IL-1Rrp, CD218a	2q12.1	U43672	NM_003855	CD	CD molecules	471
+5989	IL18RAP	interleukin 18 receptor accessory protein	Approved		AcPL, CD218b	2q12.1	AF077346	NM_003853	CD	CD molecules	471
+5993	IL1R1	interleukin 1 receptor type 1	Approved	IL1R, IL1RA	D2S1473, CD121A	2q11.2-q12.1	M27492		CD	CD molecules	471
+5994	IL1R2	interleukin 1 receptor type 2	Approved	IL1RB	CD121b	2q11.2	X59770	NM_004633	CD	CD molecules	471
+6006	IL21R	interleukin 21 receptor	Approved		CD360	16p12.1	AF254067	NM_181078	CD	CD molecules	471
+6008	IL2RA	interleukin 2 receptor subunit alpha	Approved	IL2R, IDDM10	CD25	10p15.1	X01057	NM_000417	CD	CD molecules	471
+6009	IL2RB	interleukin 2 receptor subunit beta	Approved	IL15RB	CD122	22q12.3	M26062		CD	CD molecules	471
+6010	IL2RG	interleukin 2 receptor subunit gamma	Approved	SCIDX1, IMD4, CIDX	CD132	Xq13.1	D11086		CD	CD molecules	471
+6012	IL3RA	interleukin 3 receptor subunit alpha	Approved		CD123	Xp22.3 and Yp13.3	M74782		CD	CD molecules	471
+6015	IL4R	interleukin 4 receptor	Approved		CD124	16p12.1	X52425		CD	CD molecules	471
+6017	IL5RA	interleukin 5 receptor subunit alpha	Approved	IL5R	CDw125, CD125	3p26.2	M96652		CD	CD molecules	471
+6019	IL6R	interleukin 6 receptor	Approved		CD126	1q21.3	X12830	NM_000565	CD	CD molecules	471
+6021	IL6ST	interleukin 6 signal transducer	Approved		GP130, CD130	5q11.2	M57230	NM_002184	CD	CD molecules	471
+6024	IL7R	interleukin 7 receptor	Approved		CD127	5p13.2	M29696		CD	CD molecules	471
+6030	IL9R	interleukin 9 receptor	Approved		CD129	Xq28 and Yq12	M84747	NM_002186	CD	CD molecules	471
+6091	INSR	insulin receptor	Approved		CD220	19p13.2	M10051		CD	CD molecules	471
+6134	ITGA1	integrin subunit alpha 1	Approved		VLA1, CD49a	5q11.2	X68742	NM_181501	CD	CD molecules	471
+6137	ITGA2	integrin subunit alpha 2	Approved	CD49B	CD49b	5q11.2		NM_002203	CD	CD molecules	471
+6138	ITGA2B	integrin subunit alpha 2b	Approved	GP2B	CD41B, CD41, PPP1R93	17q21.31			CD	CD molecules	471
+6139	ITGA3	integrin subunit alpha 3	Approved	MSK18	CD49c, VLA3a, VCA-2, GAP-B3	17q21.33	M59911	NM_005501	CD	CD molecules	471
+6140	ITGA4	integrin subunit alpha 4	Approved	CD49D	CD49d	2q31.3			CD	CD molecules	471
+6141	ITGA5	integrin subunit alpha 5	Approved	FNRA	CD49e	12q13.13			CD	CD molecules	471
+6142	ITGA6	integrin subunit alpha 6	Approved		CD49f	2q31.1			CD	CD molecules	471
+6146	ITGAD	integrin subunit alpha D	Approved		CD11d, ADB2	16p11.2	U40274	NM_005353	CD	CD molecules	471
+6147	ITGAE	integrin subunit alpha E	Approved		CD103, HUMINAE	17p13.2	L25851	NM_002208	CD	CD molecules	471
+6148	ITGAL	integrin subunit alpha L	Approved	CD11A	LFA-1	16p11.2			CD	CD molecules	471
+6149	ITGAM	integrin subunit alpha M	Approved	CR3A, CD11B	MAC-1, CD11b	16p11.2	J03925	NM_000632	CD	CD molecules	471
+6150	ITGAV	integrin subunit alpha V	Approved	VNRA, MSK8, VTNR	CD51	2q32.1		NM_002210	CD	CD molecules	471
+6152	ITGAX	integrin subunit alpha X	Approved	CD11C	CD11c	16p11.2	BC038237	NM_000887	CD	CD molecules	471
+6153	ITGB1	integrin subunit beta 1	Approved	FNRB, MSK12, MDF2	CD29, GPIIA	10p11.22	BC020057	NM_002211	CD	CD molecules	471
+6155	ITGB2	integrin subunit beta 2	Approved	CD18, MFI7	LFA-1, MAC-1	21q22.3	AK222505	NM_000211	CD	CD molecules	471
+6156	ITGB3	integrin subunit beta 3	Approved	GP3A	CD61, GPIIIa	17q21.32		NM_000212	CD	CD molecules	471
+6158	ITGB4	integrin subunit beta 4	Approved		CD104	17q25.1			CD	CD molecules	471
+6188	JAG1	jagged 1	Approved	AGS, JAGL1	AHD, AWS, HJ1, CD339	20p12.2	U61276	NM_000214	CD	CD molecules	471
+14686	JAM2	junctional adhesion molecule 2	Approved	C21orf43	VE-JAM, JAM-B, JAMB, CD322	21q21.3	AF255910		CD	CD molecules	471
+6307	KDR	kinase insert domain receptor	Approved		FLK1, VEGFR, VEGFR2, CD309	4q12	AF035121		CD	CD molecules	471
+6308	KEL	Kell blood group, metallo-endopeptidase	Approved		ECE3, CD238	7q34	BC003135	NM_000420	CD	CD molecules	471
+6329	KIR2DL1	killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 1	Approved		cl-42, nkat1, 47.11, p58.1, CD158A	19q13.42	L41267	NM_014218	CD	CD molecules	471
+6330	KIR2DL2	killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 2	Approved		cl-43, nkat6, CD158B1, CD158k	19q13.4 alternate reference locus	L76669, GL949748, GL949753	NM_014219	CD	CD molecules	471
+6331	KIR2DL3	killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 3	Approved		cl-6, nkat2, nkat2a, nkat2b, p58, CD158B2	19q13.42	L41268		CD	CD molecules	471
+6332	KIR2DL4	killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 4	Approved		103AS, 15.212, CD158D	19q13.42	X97229	NM_002255	CD	CD molecules	471
+16345	KIR2DL5A	killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 5A	Approved		KIR2DL5.1, KIR2DL5, CD158F	19q13.4 alternate reference locus	AF217485, GL949747	NM_020535	CD	CD molecules	471
+6333	KIR2DS1	killer cell immunoglobulin like receptor, two Ig domains and short cytoplasmic tail 1	Approved		EB6ActI, EB6ActII, CD158H	19q13.4 alternate reference locus	X89892, GL949751, GL949747, GL949749	NM_014512	CD	CD molecules	471
+6334	KIR2DS2	killer cell immunoglobulin like receptor, two Ig domains and short cytoplasmic tail 2	Approved		cl-49, nkat5, 183ActI, CD158J	19q13.4 alternate reference locus	L76667, GL949748, GL949753	NM_012312	CD	CD molecules	471
+6336	KIR2DS4	killer cell immunoglobulin like receptor, two Ig domains and short cytoplasmic tail 4	Approved		cl-39, KKA3, nkat8, CD158i	19q13.42	L76671	NM_012314	CD	CD molecules	471
+6337	KIR2DS5	killer cell immunoglobulin like receptor, two Ig domains and short cytoplasmic tail 5	Approved		nkat9, CD158G	19q13.4 alternate reference locus	L76672, GL949747	NM_014513	CD	CD molecules	471
+6338	KIR3DL1	killer cell immunoglobulin like receptor, three Ig domains and long cytoplasmic tail 1	Approved	KIR	cl-2, NKB1, cl-11, nkat3, NKB1B, AMB11, CD158e1/2, CD158E1, CD158e2	19q13.42	L41269	NM_013289	CD	CD molecules	471
+6339	KIR3DL2	killer cell immunoglobulin like receptor, three Ig domains and long cytoplasmic tail 2	Approved		cl-5, nkat4, nkat4a, nkat4b, CD158K	19q13.42	L41270		CD	CD molecules	471
+16312	KIR3DL3	killer cell immunoglobulin like receptor, three Ig domains and long cytoplasmic tail 3	Approved		KIRC1, KIR3DL7, KIR44, CD158z	19q13.42	AF352324	NM_153443	CD	CD molecules	471
+16343	KIR3DP1	killer cell immunoglobulin like receptor, three Ig domains pseudogene 1	Approved		KIRX, KIR48, KIR2DS6, KIR3DS2P, CD158C	19q13.42	AF204919	NG_033792	CD	CD molecules	471
+6342	KIT	KIT proto-oncogene receptor tyrosine kinase	Approved	PBT	CD117, SCFR, C-Kit	4q12	S67773	NM_000222	CD	CD molecules	471
+6373	KLRB1	killer cell lectin like receptor B1	Approved	NKR	CD161, NKR-P1, NKR-P1A, hNKR-P1A, CLEC5B	12p13.31	U11276	NM_002258	CD	CD molecules	471
+6374	KLRC1	killer cell lectin like receptor C1	Approved	NKG2	NKG2-A, NKG2-B, CD159a	12p13	U54782	NM_002259	CD	CD molecules	471
+6375	KLRC2	killer cell lectin like receptor C2	Approved		NKG2-C, CD159c	12p13	X54869	NM_002260	CD	CD molecules	471
+6378	KLRD1	killer cell lectin like receptor D1	Approved	CD94		12p13	U30610	NM_002262	CD	CD molecules	471
+18788	KLRK1	killer cell lectin like receptor K1	Approved	D12S2489E	NKG2D, KLR, NKG2-D, CD314	12p13.2	AJ001687	NM_007360	CD	CD molecules	471
+6470	L1CAM	L1 cell adhesion molecule	Approved	HSAS1, SPG1, HSAS, MASA, MIC5, S10	CD171	Xq28	M74387	NM_024003	CD	CD molecules	471
+6476	LAG3	lymphocyte activating 3	Approved		CD223	12p13.31		NM_002286	CD	CD molecules	471
+6477	LAIR1	leukocyte associated immunoglobulin like receptor 1	Approved		CD305	19q13.42	AF013249		CD	CD molecules	471
+6478	LAIR2	leukocyte associated immunoglobulin like receptor 2	Approved		CD306	19q13.42	AF013250		CD	CD molecules	471
+6499	LAMP1	lysosomal associated membrane protein 1	Approved		CD107a	13q34	J03263		CD	CD molecules	471
+6501	LAMP2	lysosomal associated membrane protein 2	Approved		CD107b	Xq24	X77196		CD	CD molecules	471
+14582	LAMP3	lysosomal associated membrane protein 3	Approved		LAMP, TSC403, DC-LAMP, DCLAMP, CD208	3q27.1	AB013924		CD	CD molecules	471
+6554	LEPR	leptin receptor	Approved		OBR, CD295	1p31.3	U43168	NM_002303	CD	CD molecules	471
+6597	LIFR	LIF receptor alpha	Approved		CD118	5p13.1	X61615	NM_002310	CD	CD molecules	471
+6602	LILRA1	leukocyte immunoglobulin like receptor A1	Approved		LIR-6, CD85i, LIR6	19q13.42	AF025530	NM_006863	CD	CD molecules	471
+6603	LILRA2	leukocyte immunoglobulin like receptor A2	Approved		LIR-7, ILT1, CD85h, LIR7	19q13.4	U82275		CD	CD molecules	471
+6604	LILRA3	leukocyte immunoglobulin like receptor A3	Approved		LIR-4, HM43, ILT6, HM31, LIR4, CD85e	19q13.4 alternate reference locus	U91926		CD	CD molecules	471
+15503	LILRA4	leukocyte immunoglobulin like receptor A4	Approved		ILT7, CD85g	19q13.42	AF041261	NM_012276	CD	CD molecules	471
+16309	LILRA5	leukocyte immunoglobulin like receptor A5	Approved	LILRB7	ILT11, LIR9, CD85, CD85f	19q13.42	AF212842	NM_181985	CD	CD molecules	471
+15495	LILRA6	leukocyte immunoglobulin like receptor A6	Approved	LILRB6	ILT8, CD85b	19q13.42	AF041262	NM_024318	CD	CD molecules	471
+6605	LILRB1	leukocyte immunoglobulin like receptor B1	Approved		LIR-1, ILT2, MIR-7, CD85, LIR1, CD85j, PIRB, PIR-B	19q13.42	AF009220		CD	CD molecules	471
+6606	LILRB2	leukocyte immunoglobulin like receptor B2	Approved		LIR-2, ILT4, MIR-10, LIR2, CD85d, MIR10	19q13.4	AF000574		CD	CD molecules	471
+6607	LILRB3	leukocyte immunoglobulin like receptor B3	Approved		LIR-3, HL9, ILT5, LIR3, CD85a, PIRB, PIR-B	19q13.42	U91928	NM_006864	CD	CD molecules	471
+6608	LILRB4	leukocyte immunoglobulin like receptor B4	Approved		LIR-5, ILT3, HM18, LIR5, CD85k	19q13.42	U82979		CD	CD molecules	471
+6609	LILRB5	leukocyte immunoglobulin like receptor B5	Approved		LIR-8, LIR8, CD85c	19q13.4	AF025534		CD	CD molecules	471
+15496	LILRP1	leukocyte immunoglobulin-like receptor pseudogene 1	Approved		ILT9, CD85l, LILRA6P	19q13.42	AF072102	NG_002681	CD	CD molecules	471
+15497	LILRP2	leukocyte immunoglobulin-like receptor pseudogene 2	Approved		ILT10, CD85m	19q13.42	AF072100	NM_024317	CD	CD molecules	471
+6692	LRP1	LDL receptor related protein 1	Approved	APR, A2MR, IGFBP3R1, IGFBP-3R	LRP, CD91, LRP1A, APOER	12q13.3	X13916	NM_002332	CD	CD molecules	471
+6729	LY75	lymphocyte antigen 75	Approved		DEC-205, CLEC13B, CD205	2q24.2	AF011333		CD	CD molecules	471
+6730	LY9	lymphocyte antigen 9	Approved		CD229, mLY9, SLAMF3, hly9	1q23.3	L42621	NM_002348	CD	CD molecules	471
+6934	MCAM	melanoma cell adhesion molecule	Approved		MUC18, CD146	11q23.3	X68264		CD	CD molecules	471
+7037	MELTF	melanotransferrin	Approved	MFI2	CD228, FLJ38863, MAP97, MGC4856, MTF1, MTf	3q29		NM_005929	CD	CD molecules	471
+7154	MME	membrane metalloendopeptidase	Approved		CALLA, CD10, NEP	3q25.2		NM_000902	CD	CD molecules	471
+7217	MPL	MPL proto-oncogene, thrombopoietin receptor	Approved		CD110, TPOR	1p34.2	M90102	NM_005373	CD	CD molecules	471
+7228	MRC1	mannose receptor C-type 1	Approved	MRC1L1	CLEC13D, CD206, bA541I19.1, CLEC13DL	10p12.33	J05550	NM_002438	CD	CD molecules	471
+16875	MRC2	mannose receptor C type 2	Approved		KIAA0709, ENDO180, CLEC13E, CD280	17q23	AB014609		CD	CD molecules	471
+7315	MS4A1	membrane spanning 4-domains A1	Approved	CD20	B1, Bp35, MS4A2	11q12.2	M27394		CD	CD molecules	471
+7376	MSR1	macrophage scavenger receptor 1	Approved		SCARA1, CD204, SR-AI, SR-AII, SR-AIII, SR-A	8p22	D13263		CD	CD molecules	471
+7381	MST1R	macrophage stimulating 1 receptor	Approved	RON, PTK8	CDw136, CD136	3p21.31	X70040		CD	CD molecules	471
+7508	MUC1	mucin 1, cell surface associated	Approved	PUM, MCKD1	CD227, PEM, ADMCKD, ADMCKD1, MCKD, MCD	1q22	J05581	NM_002456	CD	CD molecules	471
+7656	NCAM1	neural cell adhesion molecule 1	Approved		NCAM, CD56	11q23.2		NM_000615	CD	CD molecules	471
+6731	NCR1	natural cytotoxicity triggering receptor 1	Approved	LY94	NK-p46, NKP46, CD335	19q13.42	AJ001383		CD	CD molecules	471
+6732	NCR2	natural cytotoxicity triggering receptor 2	Approved	LY95	NK-p44, CD336	6p21.1	AJ225109		CD	CD molecules	471
+19077	NCR3	natural cytotoxicity triggering receptor 3	Approved	LY117	1C7, NKp30, CD337	6p21.33	AB055881		CD	CD molecules	471
+7809	NGFR	nerve growth factor receptor	Approved		TNFRSF16, CD271, p75NTR	17q21.33	M14764		CD	CD molecules	471
+8004	NRP1	neuropilin 1	Approved		NRP, VEGF165R, CD304	10p11.22	AF016050		CD	CD molecules	471
+8021	NT5E	5'-nucleotidase ecto	Approved	NT5	CD73, eN, eNT, CALJA	6q14.3	X55740		CD	CD molecules	471
+8760	PDCD1	programmed cell death 1	Approved	SLEB2	CD279, PD1, hSLE1, PD-1	2q37.3	AY206416	NM_005018	CD	CD molecules	471
+18731	PDCD1LG2	programmed cell death 1 ligand 2	Approved		PD-L2, Btdc, PDL2, bA574F11.2, CD273, B7-DC	9p24.1	AF344424	NM_025239	CD	CD molecules	471
+8803	PDGFRA	platelet derived growth factor receptor alpha	Approved		CD140a, PDGFR2, GAS9	4q12	D50001	NM_006206	CD	CD molecules	471
+8804	PDGFRB	platelet derived growth factor receptor beta	Approved	PDGFR	JTK12, CD140b, PDGFR1	5q32	M21616	NM_002609	CD	CD molecules	471
+8823	PECAM1	platelet and endothelial cell adhesion molecule 1	Approved		CD31	17q23.3	L34631, M37780	NM_000442	CD	CD molecules	471
+21245	PI16	peptidase inhibitor 16	Approved		MGC45378, dJ90K10.5, MSMBBP, CD364	6p21.2		NM_153370	CD	CD molecules	471
+9053	PLAUR	plasminogen activator, urokinase receptor	Approved		URKR, UPAR, CD87	19q13		NM_002659	CD	CD molecules	471
+9106	PLXNC1	plexin C1	Approved		VESPR, CD232	12q22	AF030339		CD	CD molecules	471
+9449	PRNP	prion protein	Approved	PRIP, GSS, CJD	CD230, PRP, AltPrP	20p13	M13899	NM_000311	CD	CD molecules	471
+9452	PROCR	protein C receptor	Approved		EPCR, CCD41, CD201	20q11.22	L35545		CD	CD molecules	471
+9454	PROM1	prominin 1	Approved	PROML1, MCDR2, STGD4	AC133, CD133, RP41, CORD12	4p15.32	AF027208	NM_006017	CD	CD molecules	471
+9514	PSG1	pregnancy specific beta-1-glycoprotein 1	Approved	PSBG1	PSGGA, CD66f, PBG1	19q13.2			CD	CD molecules	471
+4502	PTGDR2	prostaglandin D2 receptor 2	Approved	GPR44	CRTH2, CD294, DP2	11q12.2	AF118265	NM_004778	CD	CD molecules	471
+9601	PTGFRN	prostaglandin F2 receptor inhibitor	Approved		FPRP, EWI-F, CD9P-1, FLJ11001, KIAA1436, SMAP-6, CD315	1p13.1	AB014734	NM_020440	CD	CD molecules	471
+9666	PTPRC	protein tyrosine phosphatase, receptor type C	Approved	CD45	LCA, T200, GP180	1q31.3-q32.1	Y00062	NM_002838	CD	CD molecules	471
+9673	PTPRJ	protein tyrosine phosphatase, receptor type J	Approved		DEP1, HPTPeta, CD148	11p11.2	U10886		CD	CD molecules	471
+9705	PVR	poliovirus receptor	Approved	PVS	CD155, HVED, Necl-5, NECL5, Tage4	19q13.31	BC015542	NM_006505	CD	CD molecules	471
+9706	NECTIN1	nectin cell adhesion molecule 1	Approved	HVEC, ED4, PVRL1	PRR, PRR1, PVRR1, SK-12, HIgR, CLPED1, CD111, OFC7	11q23.3	X76400		CD	CD molecules	471
+9707	NECTIN2	nectin cell adhesion molecule 2	Approved	HVEB, PVRL2	PVRR2, PRR2, CD112	19q13.32	X80038	NM_002856	CD	CD molecules	471
+17664	NECTIN3	nectin cell adhesion molecule 3	Approved	PVRL3	nectin-3, PPR3, PVRR3, DKFZP566B0846, CDw113, CD113	3q13.13	AF282874	NM_015480	CD	CD molecules	471
+10006	RHAG	Rh associated glycoprotein	Approved		RH50A, CD241, SLC42A1	6p12.3			CD	CD molecules	471
+10008	RHCE	Rh blood group CcEe antigens	Approved	RH	CD240CE	1p36.11	BC075081	NM_020485	CD	CD molecules	471
+10009	RHD	Rh blood group D antigen	Approved	RH	Rh30a, Rh4, RhPI, RhII, DIIIc, CD240D	1p36.11	AB012623	NM_016124	CD	CD molecules	471
+3165	S1PR1	sphingosine-1-phosphate receptor 1	Approved	EDG1	edg-1, D1S3362, CD363	1p21.2	M31210	NM_001400	CD	CD molecules	471
+10658	SDC1	syndecan 1	Approved	SDC	CD138, syndecan, SYND1	2p24.1	AJ551176	NM_001006946	CD	CD molecules	471
+10659	SDC2	syndecan 2	Approved	HSPG, HSPG1	fibroglycan, SYND2, CD362	8q22.1	BC030133	NM_002998	CD	CD molecules	471
+10718	SELE	selectin E	Approved	ELAM1, ELAM	ESEL, CD62E	1q24.2	M30640	NM_000450	CD	CD molecules	471
+10720	SELL	selectin L	Approved	LYAM1, LNHR	LSEL, LAM1, LAM-1, hLHRc, Leu-8, Lyam-1, PLNHR, CD62L	1q24.2	M25280	NM_000655	CD	CD molecules	471
+10721	SELP	selectin P	Approved	GRMP	CD62, PSEL, PADGEM, GMP140, CD62P	1q24.2	BC068533	NM_003005	CD	CD molecules	471
+10722	SELPLG	selectin P ligand	Approved		PSGL-1, CD162	12q24.11			CD	CD molecules	471
+10732	SEMA4D	semaphorin 4D	Approved	SEMAJ, C9orf164	CD100, coll-4, FLJ39737	9q22.2	U60800	NM_006378	CD	CD molecules	471
+10741	SEMA7A	semaphorin 7A (John Milton Hagen blood group)	Approved	SEMAL	H-Sema-L, CD108	15q24.1	AF069493	NM_003612	CD	CD molecules	471
+11127	SIGLEC1	sialic acid binding Ig like lectin 1	Approved	SN	SIGLEC-1, CD169, FLJ00051, FLJ00055, FLJ00073, FLJ32150, dJ1009E24.1, sialoadhesin	20p13	AF230073	NM_023068	CD	CD molecules	471
+10874	SIGLEC5	sialic acid binding Ig like lectin 5	Approved	CD33L2	OB-BP2, SIGLEC-5, CD170	19q13.41	U71383	NM_003830	CD	CD molecules	471
+10875	SIGLEC6	sialic acid binding Ig like lectin 6	Approved	CD33L, CD33L1	OB-BP1, SIGLEC-6, CD327	19q13.41	D86358	NM_001245	CD	CD molecules	471
+10876	SIGLEC7	sialic acid binding Ig like lectin 7	Approved	SIGLEC19P, SIGLECP2	SIGLEC-7, p75/AIRM1, QA79, CD328	19q13.41	AF170485	NM_016543	CD	CD molecules	471
+10878	SIGLEC9	sialic acid binding Ig like lectin 9	Approved		CD329	19q13.3-q13.4	AF135027	NM_014441	CD	CD molecules	471
+9662	SIRPA	signal regulatory protein alpha	Approved	PTPNS1	SHPS1, SIRP, MYD-1, BIT, P84, SHPS-1, SIRPalpha, CD172a, SIRPalpha2, MFR, SIRP-ALPHA-1	20p13	D86043	NM_080792	CD	CD molecules	471
+15928	SIRPB1	signal regulatory protein beta 1	Approved		SIRP-BETA-1, CD172b	20p13	Y10376	NM_006065	CD	CD molecules	471
+15757	SIRPG	signal regulatory protein gamma	Approved	SIRPB2	bA77C3.1, SIRP-B2, SIRPgamma, CD172g	20p13	AB042624	NM_018556	CD	CD molecules	471
+10903	SLAMF1	signaling lymphocytic activation molecule family member 1	Approved	SLAM	CD150	1q23.3	U33017		CD	CD molecules	471
+21392	SLAMF6	SLAM family member 6	Approved		KALI, NTBA, KALIb, Ly108, SF2000, NTB-A, CD352	1q23.2-q23.3	AL832854	NM_052931	CD	CD molecules	471
+21394	SLAMF7	SLAM family member 7	Approved		CRACC, 19A, CS1, CD319	1q23.3	AB027233	NM_021181	CD	CD molecules	471
+21391	SLAMF8	SLAM family member 8	Approved		BLAME, SBBI42, CD353	1q23.2	AF146761	NM_020125	CD	CD molecules	471
+18798	SLC44A1	solute carrier family 44 member 1	Approved	CDW92	CDw92, CTL1, CHTL1, CD92	9q31.1-q31.2	AJ420812	NM_080546	CD	CD molecules	471
+11027	SLC4A1	solute carrier family 4 member 1 (Diego blood group)	Approved	EPB3, AE1, DI, WD	RTA1A, CD233, FR, SW, WR	17q21.31		NM_000342	CD	CD molecules	471
+11063	SLC7A5	solute carrier family 7 member 5	Approved		LAT1, E16, D16S469E, MPE16, CD98	16q24.2	AF077866	NM_003486	CD	CD molecules	471
+11249	SPN	sialophorin	Approved		LSN, CD43, GPL115	16p11.2	J04536		CD	CD molecules	471
+11724	TEK	TEK receptor tyrosine kinase	Approved	VMCM	TIE2, TIE-2, VMCM1, CD202b	9p21.2	L06139		CD	CD molecules	471
+11763	TFRC	transferrin receptor	Approved		CD71, TFR1, p90	3q29	X01060		CD	CD molecules	471
+11784	THBD	thrombomodulin	Approved		CD141	20p11.21			CD	CD molecules	471
+11801	THY1	Thy-1 cell surface antigen	Approved		CD90	11q23.3	M11749	NM_006288	CD	CD molecules	471
+11847	TLR1	toll like receptor 1	Approved		rsc786, KIAA0012, CD281	4p14	U88540		CD	CD molecules	471
+15634	TLR10	toll like receptor 10	Approved		CD290	4p14	AF296673		CD	CD molecules	471
+11848	TLR2	toll like receptor 2	Approved		TIL4, CD282	4q31.3	U88878		CD	CD molecules	471
+11849	TLR3	toll like receptor 3	Approved		CD283	4q35.1	U88879		CD	CD molecules	471
+11850	TLR4	toll like receptor 4	Approved		hToll, CD284, TLR-4, ARMD10	9q33.1	U88880	NM_138554	CD	CD molecules	471
+16711	TLR6	toll like receptor 6	Approved		CD286	4p14			CD	CD molecules	471
+15632	TLR8	toll like receptor 8	Approved		CD288	Xp22.2	AF246971	NM_016610	CD	CD molecules	471
+15633	TLR9	toll like receptor 9	Approved		CD289	3p21.2	AF259262		CD	CD molecules	471
+11904	TNFRSF10A	TNF receptor superfamily member 10a	Approved		DR4, Apo2, TRAILR-1, CD261, TRAILR1	8p21.3	U90875	NM_003844	CD	CD molecules	471
+11905	TNFRSF10B	TNF receptor superfamily member 10b	Approved		DR5, KILLER, TRICK2A, TRAIL-R2, TRICKB, CD262, TRAILR2	8p21.3	AF012628	NM_147187	CD	CD molecules	471
+11906	TNFRSF10C	TNF receptor superfamily member 10c	Approved		DcR1, TRAILR3, LIT, TRID, CD263	8p21.3	AF012536		CD	CD molecules	471
+11907	TNFRSF10D	TNF receptor superfamily member 10d	Approved		DcR2, TRUNDD, TRAILR4, CD264	8p21.3	AF029761		CD	CD molecules	471
+11908	TNFRSF11A	TNF receptor superfamily member 11a	Approved	PDB2, LOH18CR1	RANK, CD265, FEO	18q21.33	AF018253		CD	CD molecules	471
+18152	TNFRSF12A	TNF receptor superfamily member 12A	Approved		FN14, TweakR, CD266	16p13.3	AB035480		CD	CD molecules	471
+18153	TNFRSF13B	TNF receptor superfamily member 13B	Approved		TACI, CD267, IGAD2	17p11.2	AF023614		CD	CD molecules	471
+17755	TNFRSF13C	TNF receptor superfamily member 13C	Approved		BAFFR, CD268	22q13.2	AF373846		CD	CD molecules	471
+11912	TNFRSF14	TNF receptor superfamily member 14	Approved		HVEM, ATAR, TR2, LIGHTR, HVEA, CD270	1p36.32	U70321		CD	CD molecules	471
+11913	TNFRSF17	TNF receptor superfamily member 17	Approved	BCMA	BCM, CD269, TNFRSF13A	16p13.13	Z29574		CD	CD molecules	471
+11914	TNFRSF18	TNF receptor superfamily member 18	Approved		AITR, GITR, CD357	1p36.33	AF125304	NM_004195	CD	CD molecules	471
+11916	TNFRSF1A	TNF receptor superfamily member 1A	Approved	TNFR1	TNF-R, TNFAR, TNFR60, TNF-R-I, CD120a, TNF-R55	12p13.31	M75866	NM_001065	CD	CD molecules	471
+11917	TNFRSF1B	TNF receptor superfamily member 1B	Approved	TNFR2	TNFBR, TNFR80, TNF-R75, TNF-R-II, p75, CD120b	1p36.22	M32315	NM_001066	CD	CD molecules	471
+13469	TNFRSF21	TNF receptor superfamily member 21	Approved		DR6, CD358	6p12.3	AF068868	NM_014452	CD	CD molecules	471
+11918	TNFRSF4	TNF receptor superfamily member 4	Approved	TXGP1L	ACT35, OX40, CD134	1p36.33	X75962		CD	CD molecules	471
+11923	TNFRSF8	TNF receptor superfamily member 8	Approved	CD30, D1S166E	KI-1	1p36.22	M83554		CD	CD molecules	471
+11924	TNFRSF9	TNF receptor superfamily member 9	Approved	ILA	CD137, 4-1BB	1p36.23	L12964		CD	CD molecules	471
+11925	TNFSF10	TNF superfamily member 10	Approved		TRAIL, Apo-2L, TL2, CD253	3q26	U37518		CD	CD molecules	471
+11926	TNFSF11	TNF superfamily member 11	Approved		TRANCE, RANKL, OPGL, ODF, CD254	13q14	AF013171		CD	CD molecules	471
+11928	TNFSF13	TNF superfamily member 13	Approved		APRIL, CD256	17p13.1	AF046888	NM_003808	CD	CD molecules	471
+11929	TNFSF13B	TNF superfamily member 13b	Approved	TNFSF20	BAFF, THANK, BLYS, TALL-1, TALL1, CD257	13q33.3	AF136293		CD	CD molecules	471
+11930	TNFSF14	TNF superfamily member 14	Approved		LIGHT, LTg, HVEM-L, CD258	19p13.3	AF036581		CD	CD molecules	471
+11934	TNFSF4	TNF superfamily member 4	Approved	TXGP1	OX-40L, gp34, CD252	1q25.1	D90224		CD	CD molecules	471
+11938	TNFSF8	TNF superfamily member 8	Approved	CD30LG	CD153	9q32-q33.1	L09753		CD	CD molecules	471
+17760	TREM1	triggering receptor expressed on myeloid cells 1	Approved		TREM-1, CD354	6p21.1	AF196329	NM_018643	CD	CD molecules	471
+11854	TSPAN7	tetraspanin 7	Approved	MXS1, TM4SF2, MRX58	DXS1692E, TALLA-1, A15, CD231	Xp11.4	D29808		CD	CD molecules	471
+12663	VCAM1	vascular cell adhesion molecule 1	Approved		CD106	1p21.2	M60335	NM_001078	CD	CD molecules	471
+12709	VPREB1	V-set pre-B cell surrogate light chain 1	Approved		VpreB, CD179A	22q11.22	M34927		CD	CD molecules	471
+31713	CLEC12A	C-type lectin domain family 12 member A	Approved		CLL-1, MICL, CD371, DCAL-2	12p13.31	AY498550	NM_138337	CD	CD molecules	471
