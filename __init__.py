@@ -35,7 +35,6 @@ cd_genes = pd.read_csv(os.path.join(data_folder,'D02_CD_genes.txt'),sep='\t') # 
 
 # General single-cell anlaysis procedure
 
-
 def sc_process(adata,pid = 'fspkuc',n_pcs=50): # simplified scanpy preprocessing
     '''n: normalise
        l: log
@@ -145,6 +144,8 @@ def umap_show(adata,feature,feature_name= None):
         adata.obs['show'] = feature
         sc.pl.umap(adata,color='show',color_map='OrRd')
 
+# Clustering
+        
 def leiden_res(adata,res,show=False):
     print('calculating leiden at res {0:.2f}...'.format(res))
     sc.tl.leiden(adata,resolution=res)
@@ -152,6 +153,19 @@ def leiden_res(adata,res,show=False):
     adata.obs['leiden_{0:.2f}'.format(res)] = adata.obs['leiden'].copy()
     if show:
         sc.pl.umap(adata,color='leiden_{0:.2f}'.format(res))
+        
+def subcluster(adata,obs_label,cl_label,new_label,res=0.1):
+    '''
+    take specific cluster from adata and split that into smaller cluster
+    adata: AnnData object
+    obs_label: obs label. eg. 'leiden' or 'celltype'
+    cl_label: cluster name. eg. '1' or 'macrophage'
+    new_label: name to store updated label
+    '''
+    subset = adata[adata.obs[obs_label]==cl_label].copy()
+    sc.tl.leiden(subset,resolution=res)
+    update_dict = {obs_name:cl_label+'_'+new_cl for obs_name,new_cl in zip(subset.obs_names,subset.obs['leiden'])}
+    adata.obs[new_label] = [old if obs_name not in update_dict else update_dict[obs_name] for obs_name, old in zip(adata.obs_names,adata.obs[obs_label])]
         
 def remove_geneset(adata,geneset):
     adata = adata[:,~adata.var_names.isin(list(geneset))].copy()
@@ -475,8 +489,11 @@ class annotater():
         self.new_label_name = new_label_name
         
     def update(self,adata,obskey,select,label_name):
-        if ',' in select:
-            label_condition = adata.obs[obskey].isin(select.split(','))
+        if type(select)==str:
+            if ',' in select:
+                label_condition = adata.obs[obskey].isin(select.split(','))
+            else:
+                label_condition = adata.obs[obskey]==select
         else:
             label_condition = adata.obs[obskey]==select
         self.new_label[label_condition] = label_name
